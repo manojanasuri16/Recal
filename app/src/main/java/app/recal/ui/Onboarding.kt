@@ -39,6 +39,8 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.res.painterResource
+import app.recal.R
 import androidx.compose.ui.unit.dp
 
 @Composable
@@ -47,7 +49,7 @@ fun Welcome(onContinue: () -> Unit) {
         Column(Modifier.weight(1f).verticalScroll(rememberScrollState())) {
             Spacer(Modifier.height(56.dp))
             Box(Modifier.size(64.dp).clip(RoundedCornerShape(18.dp)).background(colors.accent), contentAlignment = Alignment.Center) {
-                Icon(Icons.Rounded.PhoneCallback, null, tint = colors.onAccent, modifier = Modifier.size(34.dp))
+                Icon(painterResource(R.drawable.ic_stat_recal), null, tint = colors.onAccent, modifier = Modifier.size(38.dp))
             }
             Spacer(Modifier.height(28.dp))
             Text("Remember why\nyou called.", style = Type.largeTitle, color = colors.label)

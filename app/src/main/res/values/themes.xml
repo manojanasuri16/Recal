@@ -1,6 +1,6 @@
 <resources>
     <color name="window_bg">#F2F2F7</color>
-    <color name="brand">#F2600C</color>
+    <color name="brand">#0A7AFF</color>
 
     <style name="Theme.Recal" parent="android:Theme.Material.Light.NoActionBar">
         <item name="android:windowBackground">@color/window_bg</item>

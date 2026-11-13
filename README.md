@@ -9,7 +9,7 @@
 A tiny, offline Android utility. When someone doesn't pick up, Recal asks *why you called*.
 When they ring back, your reason is already on screen. Once you've talked, it clears itself.
 
-[![Latest release](https://img.shields.io/github/v/release/manojanasuri16/Recal?color=F2600C&label=release)](https://github.com/manojanasuri16/Recal/releases/latest)
+[![Latest release](https://img.shields.io/github/v/release/manojanasuri16/Recal?color=0A7AFF&label=release)](https://github.com/manojanasuri16/Recal/releases/latest)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Android 8.0+](https://img.shields.io/badge/Android-8.0%2B-3DDC84?logo=android&logoColor=white)
 ![No internet permission](https://img.shields.io/badge/internet-none-success)
@@ -73,7 +73,7 @@ read what you wrote last time, add a line, move on.
 
 ## Install
 
-1. Download **`Recal-1.0.0.apk`** from the [latest release](https://github.com/manojanasuri16/Recal/releases/latest).
+1. Download the **APK** from the [latest release](https://github.com/manojanasuri16/Recal/releases/latest).
 2. Open it on your phone and allow installing from your browser or file manager if asked.
 3. Open Recal and follow the three-step setup:
 

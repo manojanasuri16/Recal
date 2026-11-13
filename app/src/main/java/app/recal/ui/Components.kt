@@ -112,7 +112,7 @@ fun PillButton(
 @Composable
 fun Avatar(label: String, size: Dp = 44.dp, modifier: Modifier = Modifier) {
     val palette = listOf(
-        Color(0xFFF2600C), Color(0xFF2F7CF6), Color(0xFF7A5AF8), Color(0xFF12A594),
+        Color(0xFF5B6EE1), Color(0xFFD6702A), Color(0xFF7A5AF8), Color(0xFF12A594),
         Color(0xFFE5484D), Color(0xFFD6409F), Color(0xFF3E9B4F), Color(0xFFB8860B),
     )
     val tint = palette[(label.hashCode() and 0x7fffffff) % palette.size]

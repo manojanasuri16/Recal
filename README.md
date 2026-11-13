@@ -48,17 +48,6 @@ Reminders can also be added by hand with the **+** button, and ticked off from t
 Turn it on in Settings and the same bubble becomes a per-contact scratchpad during any call:
 read what you wrote last time, add a line, move on.
 
-## Screenshots
-
-<table>
-  <tr>
-    <td align="center"><img src="docs/screenshots/1-banner.png" width="190"><br><sub>After a missed call</sub></td>
-    <td align="center"><img src="docs/screenshots/2-callback.png" width="190"><br><sub>When they call back</sub></td>
-    <td align="center"><img src="docs/screenshots/3-home-light.png" width="190"><br><sub>Home, light</sub></td>
-    <td align="center"><img src="docs/screenshots/4-home-dark.png" width="190"><br><sub>Home, dark</sub></td>
-  </tr>
-</table>
-
 ## Design principles
 
 - **Quiet by default.** A card at the top of the screen and a small bubble. Never a full-screen takeover, never a

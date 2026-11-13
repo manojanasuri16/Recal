@@ -14,9 +14,8 @@ When they ring back, your reason is already on screen. Once you've talked, it cl
 ![Android 8.0+](https://img.shields.io/badge/Android-8.0%2B-3DDC84?logo=android&logoColor=white)
 ![No internet permission](https://img.shields.io/badge/internet-none-success)
 
-<!-- AppDrop: add your link here, e.g.
-[**Get it on AppDrop**](https://your-appdrop-link)
-&nbsp;·&nbsp; -->
+[**Get it on AppDrop**](https://appdrop-store.vercel.app/apps/recal)
+&nbsp;·&nbsp;
 [**Download the APK**](https://github.com/manojanasuri16/Recal/releases/latest)
 
 </div>
@@ -73,7 +72,7 @@ read what you wrote last time, add a line, move on.
 
 ## Install
 
-1. Download the **APK** from the [latest release](https://github.com/manojanasuri16/Recal/releases/latest).
+1. Get it from [AppDrop](https://appdrop-store.vercel.app/apps/recal), or download the **APK** from the [latest release](https://github.com/manojanasuri16/Recal/releases/latest).
 2. Open it on your phone and allow installing from your browser or file manager if asked.
 3. Open Recal and follow the three-step setup:
 

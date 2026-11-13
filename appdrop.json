@@ -1,0 +1,21 @@
+{
+  "slug": "recal",
+  "kind": "android",
+  "name": "Recal",
+  "tagline": "Remember why you called.",
+  "category": "Utilities",
+  "developer": "manojanasuri16",
+  "accentColor": "#0a7aff",
+  "packageName": "app.recal",
+  "repo": "manojanasuri16/Recal",
+  "visibility": "public",
+  "descriptionFile": "appdrop/description.md",
+  "icon": "appdrop/icon.png",
+  "screenshots": [
+    "appdrop/screenshots/01-home.png",
+    "appdrop/screenshots/02-after-call.png",
+    "appdrop/screenshots/03-callback.png",
+    "appdrop/screenshots/04-home-dark.png",
+    "appdrop/screenshots/05-settings.png"
+  ]
+}
